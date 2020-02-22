@@ -1,0 +1,778 @@
+﻿Log file open, 07/21/18 18:06:27
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: SPH2
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-276263258) SRandInit(-276263258).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.266853
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  0.057s to configure plugins.
+LogModuleManager: Display: Found up-to-date module file D:/Projects/Unreal/SPH2/Binaries/Win64/UE4Editor-SPH2-6561.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-CA5EM89 (192.168.1.39:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.07.21-16.06.29:297][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.21-16.06.29:297][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.07.21-16.06.29:312][  0]LogInit: Computer: DESKTOP-CA5EM89
+[2018.07.21-16.06.29:312][  0]LogInit: User: DiegoDidacCampos
+[2018.07.21-16.06.29:312][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.07.21-16.06.29:312][  0]LogInit: High frequency timer resolution =3.515628 MHz
+[2018.07.21-16.06.29:313][  0]LogMemory: Memory total: Physical=12.0GB (12GB approx)
+[2018.07.21-16.06.29:313][  0]LogMemory: Platform Memory Stats for Windows
+[2018.07.21-16.06.29:313][  0]LogMemory: Process Physical Memory: 273.89 MB used, 273.89 MB peak
+[2018.07.21-16.06.29:313][  0]LogMemory: Process Virtual Memory: 264.64 MB used, 264.64 MB peak
+[2018.07.21-16.06.29:313][  0]LogMemory: Physical Memory: 5323.70 MB used,  6915.28 MB free, 12238.98 MB total
+[2018.07.21-16.06.29:313][  0]LogMemory: Virtual Memory: 692.79 MB used,  6915.28 MB free, 134217728.00 MB total
+[2018.07.21-16.06.29:341][  0]LogInit: Using OS detected language (es-ES).
+[2018.07.21-16.06.29:341][  0]LogInit: Using OS detected locale (es-ES).
+[2018.07.21-16.06.29:344][  0]LogTextLocalizationManager: No specific localization for 'es-ES' exists, so the 'es' localization will be used.
+[2018.07.21-16.06.29:682][  0]LogStreaming: Display: Took  0.342s to EndInitTextLocalization.
+[2018.07.21-16.06.29:682][  0]LogInit: Setting process to per monitor DPI aware
+[2018.07.21-16.06.29:710][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.07.21-16.06.29:710][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.07.21-16.06.29:879][  0]LogD3D11RHI: D3D11 adapters:
+[2018.07.21-16.06.29:903][  0]LogD3D11RHI:    0. 'Radeon (TM) RX 480 Graphics' (Feature Level 11_0)
+[2018.07.21-16.06.29:903][  0]LogD3D11RHI:       8137/0/6119 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x1002
+[2018.07.21-16.06.29:905][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.07.21-16.06.29:905][  0]LogD3D11RHI:       0/0/6119 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.07.21-16.06.29:905][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.07.21-16.06.29:912][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.07.21-16.06.29:912][  0]LogD3D11RHI:     GPU DeviceId: 0x67df (for the marketing name, search the web for "GPU Device Id")
+[2018.07.21-16.06.29:912][  0]LogWindows: EnumDisplayDevices:
+[2018.07.21-16.06.29:912][  0]LogWindows:    0. 'Radeon (TM) RX 480 Graphics' (P:1 D:1)
+[2018.07.21-16.06.29:912][  0]LogWindows:    1. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.21-16.06.29:913][  0]LogWindows:    2. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.21-16.06.29:913][  0]LogWindows:    3. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.21-16.06.29:913][  0]LogWindows:    4. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.21-16.06.29:913][  0]LogWindows:    5. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.21-16.06.29:913][  0]LogWindows:    6. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.21-16.06.29:913][  0]LogWindows:    7. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.21-16.06.29:913][  0]LogWindows:    8. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.21-16.06.29:913][  0]LogWindows:    9. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.21-16.06.29:913][  0]LogWindows:    10. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.21-16.06.29:914][  0]LogWindows:    11. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.21-16.06.29:914][  0]LogWindows:    12. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.21-16.06.29:914][  0]LogWindows:    13. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.21-16.06.29:914][  0]LogWindows:    14. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.21-16.06.29:914][  0]LogWindows:    15. 'Radeon (TM) RX 480 Graphics' (P:0 D:0)
+[2018.07.21-16.06.29:914][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.07.21-16.06.29:914][  0]LogD3D11RHI:     Adapter Name: Radeon (TM) RX 480 Graphics
+[2018.07.21-16.06.29:914][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.07.21-16.06.29:914][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.07.21-16.06.29:914][  0]LogRHI: Texture pool is 5695 MB (70% of 8137 MB)
+[2018.07.21-16.06.29:984][  0]LogD3D11RHI: Async texture creation enabled
+[2018.07.21-16.06.29:997][  0]LogD3D11RHI: GPU Timing Frequency: 25.000000 (Debug: 2 1)
+[2018.07.21-16.06.29:998][  0]LogShaderCompilers: Guid format shader working directory is 35 characters bigger than the processId version (D:/Projects/Unreal/SPH2/Intermediate/Shaders/WorkingDirectory/11564/).
+[2018.07.21-16.06.29:998][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Diego Didac Campos/AppData/Local/Temp/UnrealShaderWorkingDir/0B4ECCD44504853002836CA749FA9F0F/'.
+[2018.07.21-16.06.30:193][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.07.21-16.06.30:207][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.07.21-16.06.30:220][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.07.21-16.06.30:232][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.07.21-16.06.30:245][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.07.21-16.06.30:257][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.07.21-16.06.30:270][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.07.21-16.06.30:282][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.07.21-16.06.30:288][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.07.21-16.06.30:299][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.07.21-16.06.30:311][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.07.21-16.06.30:321][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.07.21-16.06.30:332][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.07.21-16.06.30:343][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.07.21-16.06.30:354][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.07.21-16.06.30:377][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.07.21-16.06.30:377][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.07.21-16.06.30:387][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.07.21-16.06.30:388][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.07.21-16.06.30:424][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.07.21-16.06.30:436][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.07.21-16.06.30:447][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.07.21-16.06.30:458][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.07.21-16.06.30:468][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.07.21-16.06.30:480][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.07.21-16.06.30:480][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.07.21-16.06.30:575][  0]LogXGEController: Cleaning working directory: C:/Users/Diego Didac Campos/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.07.21-16.06.30:575][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.07.21-16.06.30:575][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.07.21-16.06.30:575][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.07.21-16.06.31:236][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.07.21-16.06.31:297][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/Diego Didac Campos/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.21-16.06.31:297][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Diego Didac Campos/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.07.21-16.06.31:298][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/Projects/Unreal/SPH2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.07.21-16.06.31:298][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.07.21-16.06.31:298][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/Projects/Unreal/SPH2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.07.21-16.06.31:298][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.07.21-16.06.31:314][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.07.21-16.06.31:326][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Diego Didac Campos/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.07.21-16.06.31:326][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.07.21-16.06.31:326][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.07.21-16.06.31:337][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.07.21-16.06.31:338][  0]LogSlate: Using Freetype 2.6.0
+[2018.07.21-16.06.31:338][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.21-16.06.31:338][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.07.21-16.06.31:444][  0]LogAssetRegistry: FAssetRegistry took 0.0252 seconds to start up
+[2018.07.21-16.06.31:717][  0]LogInit: Selected Device Profile: [Windows]
+[2018.07.21-16.06.31:844][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.07.21-16.06.31:847][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.07.21-16.06.31:847][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.07.21-16.06.31:847][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.07.21-16.06.31:847][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.07.21-16.06.31:847][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.07.21-16.06.31:874][  0]LogNetVersion: SPH2 , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2455058941)
+[2018.07.21-16.06.32:248][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 2 prioritized culture(s) in 0.057733 seconds
+[2018.07.21-16.06.32:254][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.07.21-16.06.32:254][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.07.21-16.06.32:254][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.07.21-16.06.33:715][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.07.21-16.06.33:742][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.07.21-16.06.34:122][  0]SourceControl: El control de código fuente está desactivado
+[2018.07.21-16.06.34:122][  0]SourceControl: El control de código fuente está desactivado
+[2018.07.21-16.06.34:138][  0]SourceControl: El control de código fuente está desactivado
+[2018.07.21-16.06.34:154][  0]SourceControl: El control de código fuente está desactivado
+[2018.07.21-16.06.34:618][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.07.21-16.06.34:743][  0]LogOcInput: OculusInput pre-init called
+[2018.07.21-16.06.34:850][  0]LogEngine: Initializing Engine...
+[2018.07.21-16.06.34:852][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.07.21-16.06.34:854][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.21-16.06.34:855][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.21-16.06.35:046][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.07.21-16.06.35:062][  0]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-16.06.35:073][  0]LogInit: FAudioDevice initialized.
+[2018.07.21-16.06.35:148][  0]LogDerivedDataCache: Saved boot cache 0.07s 74MB C:/Users/Diego Didac Campos/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.07.21-16.06.35:161][  0]LogInit: Texture streaming: Enabled
+[2018.07.21-16.06.35:178][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.07.21-16.06.35:178][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={8E175715-43AC-8891-66EE-92B989E528A8}
+[2018.07.21-16.06.35:190][  0]LogInit: Transaction tracking system initialized
+[2018.07.21-16.06.35:209][  0]BlueprintLog: New page: Cargar el editor
+[2018.07.21-16.06.35:278][  0]LocalizationService: Localization service is disabled
+[2018.07.21-16.06.35:370][  0]LogConsoleResponse: Display: 
+[2018.07.21-16.06.35:515][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.07.21-16.06.35:515][  0]LogCook: Display: Mobile HDR setting 1
+[2018.07.21-16.06.35:515][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal/SPH2/Content/' took 0.01s
+[2018.07.21-16.06.35:515][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.07.21-16.06.35:516][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.07.21-16.06.35:516][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.07.21-16.06.35:845][  0]SourceControl: El control de código fuente está desactivado
+[2018.07.21-16.06.35:845][  0]Cmd: MAP LOAD FILE="../../../Engine/Content/Maps/Templates/Template_Default.umap" TEMPLATE=1 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.21-16.06.35:845][  0]LightingResults: New page: Diseñar la iluminación
+[2018.07.21-16.06.35:848][  0]MapCheck: New page: Revisión del mapa
+[2018.07.21-16.06.35:848][  0]LightingResults: New page: Diseñar la iluminación
+[2018.07.21-16.06.36:016][  0]LogAIModule: Creating AISystem for world Untitled_1
+[2018.07.21-16.06.36:021][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.21-16.06.36:030][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.21-16.06.36:072][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 41,843ms to complete.
+[2018.07.21-16.06.36:072][  0]LogFileHelpers: Loading map 'Template_Default' took 0.227
+[2018.07.21-16.06.36:212][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.21-16.06.36:212][  0]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.07.21-16.06.36:330][  0]LogCollectionManager: Loaded 0 collections in 0.001784 seconds
+[2018.07.21-16.06.36:390][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal/SPH2/Saved/Collections/' took 0.01s
+[2018.07.21-16.06.36:390][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal/SPH2/Content/Developers/DiegoDidacCampos/Collections/' took 0.01s
+[2018.07.21-16.06.36:390][  0]LogFileCache: Scanning file cache for directory 'D:/Projects/Unreal/SPH2/Content/Collections/' took 0.01s
+[2018.07.21-16.06.36:390][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2018.07.21-16.06.36:409][  0]LogContentBrowser: Native class hierarchy populated in 0.0192 seconds. Added 2454 classes and 560 folders.
+[2018.07.21-16.06.36:424][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0009 seconds. Added 0 classes and 0 folders.
+[2018.07.21-16.06.36:476][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.07.21-16.06.36:480][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0004 seconds. Added 1 classes and 2 folders.
+[2018.07.21-16.06.36:547][  0]LogSlate: Took 0.000162 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.07.21-16.06.36:550][  0]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.07.21-16.06.36:555][  0]LogSlate: Took 0.000139 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.07.21-16.06.36:645][  0]LogRenderer: Reallocating scene render targets to support 1048x664 Format 10 NumSamples 1 (Frame:1).
+[2018.07.21-16.06.36:804][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0005 seconds. Added 0 classes and 0 folders.
+[2018.07.21-16.06.36:804][  0]LogLoad: (Engine Initialization) Total time: 10.08 seconds
+[2018.07.21-16.06.36:804][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.07.21-16.06.36:843][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.07.21-16.06.36:891][  1]LogAssetRegistry: Asset discovery search completed in 5.4691 seconds
+[2018.07.21-16.06.36:893][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.07.21-16.06.36:893][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000058 seconds (updated 0 objects)
+[2018.07.21-16.06.39:436][289]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-16.06.39:502][297]LogSlate: Window 'Registro del mensaje' being destroyed
+[2018.07.21-16.06.39:506][297]LogSlate: Window 'Registro del mensaje' being destroyed
+[2018.07.21-16.06.40:777][449]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-16.06.40:884][461]LogSlate: Took 0.000137 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.21-16.06.42:547][659]LogSlate: Took 0.000166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.07.21-16.06.42:567][659]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015638377880, Size=72, Default__SPHSim_GM_BP_C Function /Game/SPHSim_GM_BP.SPHSim_GM_BP_C:ExecuteUbergraph_SPHSim_GM_BP
+[2018.07.21-16.06.42:579][659]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015638377880, Size=72
+[2018.07.21-16.06.42:579][659]LogUObjectGlobals: Created PersistentFrame Addr=0x00000156387813a0, Size=72, Default__SPHSim_GM_BP_C Function /Engine/Transient.REINST_SPHSim_GM_BP_C_7:ExecuteUbergraph_SPHSim_GM_BP
+[2018.07.21-16.06.42:588][659]LogUObjectGlobals: Created PersistentFrame Addr=0x00000156099e85e0, Size=72, Default__SPHSim_GM_BP_C Function /Game/SPHSim_GM_BP.SPHSim_GM_BP_C:ExecuteUbergraph_SPHSim_GM_BP
+[2018.07.21-16.06.42:600][659]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015628354da0, Size=8, Default__SPHSimMap_C Function /Game/SPHSimMap.SPHSimMap_C:ExecuteUbergraph_SPHSimMap
+[2018.07.21-16.06.42:601][659]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015628354da0, Size=8
+[2018.07.21-16.06.42:601][659]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015628354da0, Size=8, Default__SPHSimMap_C Function /Engine/Transient.REINST_SPHSimMap_C_9:ExecuteUbergraph_SPHSimMap
+[2018.07.21-16.06.42:602][659]LogUObjectGlobals: Created PersistentFrame Addr=0x00000156283546f0, Size=8, Default__SPHSimMap_C Function /Game/SPHSimMap.SPHSimMap_C:ExecuteUbergraph_SPHSimMap
+[2018.07.21-16.06.42:640][659]LogAIModule: Creating AISystem for world SPHSimMap
+[2018.07.21-16.06.42:654][659]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015628354da0, Size=8
+[2018.07.21-16.06.42:654][659]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000156387813a0, Size=72
+[2018.07.21-16.06.42:656][659]Cmd: MAP LOAD FILE="D:/Projects/Unreal/SPH2/Content/SPHSimMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.07.21-16.06.42:656][659]LightingResults: New page: Diseñar la iluminación
+[2018.07.21-16.06.42:656][659]LoadErrors: New page: Cargando mapa: SPHSimMap.umap
+[2018.07.21-16.06.42:657][659]MapCheck: New page: Revisión del mapa
+[2018.07.21-16.06.42:657][659]LightingResults: New page: Diseñar la iluminación
+[2018.07.21-16.06.42:716][659]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.07.21-16.06.42:746][659]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.07.21-16.06.42:787][659]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 40,086ms to complete.
+[2018.07.21-16.06.42:787][659]LogFileHelpers: Loading map 'SPHSimMap' took 0.132
+[2018.07.21-16.06.45:680][944]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 116 classes and 0 folders.
+[2018.07.21-16.06.45:959][944]LogUObjectGlobals: Created PersistentFrame Addr=0x000001564e3e15c0, Size=4, Default__SKEL_PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.SKEL_PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.21-16.06.45:959][944]LogUObjectGlobals: Created PersistentFrame Addr=0x000001564e3e15b8, Size=4, Default__PROTO_BP_AnimBlueprint_0_C Function /Engine/Transient.PROTO_BP_AnimBlueprint_0_C:ExecuteUbergraph_PROTO_BP_AnimBlueprint_0
+[2018.07.21-16.06.46:386][944]LogSlate: Took 0.000214 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.07.21-16.06.46:449][945]LogSlate: Took 0.000256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.07.21-16.08.45:942][ 47]BlueprintLog: New page: Compilar SPHSim_GM_BP
+[2018.07.21-16.08.45:990][ 47]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000156099e85e0, Size=72
+[2018.07.21-16.08.45:990][ 47]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015654a668e0, Size=72, Default__SPHSim_GM_BP_C Function /Engine/Transient.REINST_SPHSim_GM_BP_C_25:ExecuteUbergraph_SPHSim_GM_BP
+[2018.07.21-16.08.45:998][ 47]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015653d0bfb0, Size=72, Default__SPHSim_GM_BP_C Function /Game/SPHSim_GM_BP.SPHSim_GM_BP_C:ExecuteUbergraph_SPHSim_GM_BP
+[2018.07.21-16.08.53:928][726]BlueprintLog: New page: Compilar SPHSim_GM_BP
+[2018.07.21-16.08.53:976][726]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015653d0bfb0, Size=72
+[2018.07.21-16.08.53:976][726]LogUObjectGlobals: Created PersistentFrame Addr=0x000001560cdbe3e0, Size=72, SPHSim_GM_BP_C_53 Function /Engine/Transient.REINST_SPHSim_GM_BP_C_29:ExecuteUbergraph_SPHSim_GM_BP
+[2018.07.21-16.08.53:984][726]LogUObjectGlobals: Created PersistentFrame Addr=0x00000156516a4950, Size=72, Default__SPHSim_GM_BP_C Function /Game/SPHSim_GM_BP.SPHSim_GM_BP_C:ExecuteUbergraph_SPHSim_GM_BP
+[2018.07.21-16.08.54:576][757]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPHSim_GM_BP" FILE="D:/Projects/Unreal/SPH2/Content/SPHSim_GM_BP.uasset" SILENT=true
+[2018.07.21-16.08.54:657][757]LogSavePackage: Save=72.14ms
+[2018.07.21-16.08.54:657][757]LogSavePackage: Moving 'D:/Projects/Unreal/SPH2/Saved/SPHSim_GM_BP2CFDC0B24ECFE92CC38612866236001D.tmp' to 'D:/Projects/Unreal/SPH2/Content/SPHSim_GM_BP.uasset'
+[2018.07.21-16.08.54:659][757]LogSavePackage: Display: Finished SavePackage D:/Projects/Unreal/SPH2/Content/SPHSim_GM_BP.uasset
+[2018.07.21-16.09.14:644][566]BlueprintLog: New page: Compilar SPHSim_GM_BP
+[2018.07.21-16.09.14:692][566]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000156516a4950, Size=72
+[2018.07.21-16.09.14:692][566]LogUObjectGlobals: Created PersistentFrame Addr=0x000001564cc3b920, Size=72, SPHSim_GM_BP_C_58 Function /Engine/Transient.REINST_SPHSim_GM_BP_C_33:ExecuteUbergraph_SPHSim_GM_BP
+[2018.07.21-16.09.14:701][566]LogUObjectGlobals: Created PersistentFrame Addr=0x00000156262204a0, Size=72, Default__SPHSim_GM_BP_C Function /Game/SPHSim_GM_BP.SPHSim_GM_BP_C:ExecuteUbergraph_SPHSim_GM_BP
+[2018.07.21-16.09.14:849][566]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001560cdbe3e0, Size=72
+[2018.07.21-16.10.07:789][351]BlueprintLog: New page: Compilar SPHSim_GM_BP
+[2018.07.21-16.10.07:836][351]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000156262204a0, Size=72
+[2018.07.21-16.10.07:836][351]LogUObjectGlobals: Created PersistentFrame Addr=0x000001565086a7f0, Size=72, SPHSim_GM_BP_C_63 Function /Engine/Transient.REINST_SPHSim_GM_BP_C_37:ExecuteUbergraph_SPHSim_GM_BP
+[2018.07.21-16.10.07:845][351]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015638cfde90, Size=72, Default__SPHSim_GM_BP_C Function /Game/SPHSim_GM_BP.SPHSim_GM_BP_C:ExecuteUbergraph_SPHSim_GM_BP
+[2018.07.21-16.10.07:990][351]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001564cc3b920, Size=72
+[2018.07.21-16.10.08:431][383]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPHSim_GM_BP" FILE="D:/Projects/Unreal/SPH2/Content/SPHSim_GM_BP.uasset" SILENT=true
+[2018.07.21-16.10.08:500][383]LogSavePackage: Save=66.89ms
+[2018.07.21-16.10.08:500][383]LogSavePackage: Moving 'D:/Projects/Unreal/SPH2/Saved/SPHSim_GM_BPE4F4E3C34AE950C28E04019B893F2A90.tmp' to 'D:/Projects/Unreal/SPH2/Content/SPHSim_GM_BP.uasset'
+[2018.07.21-16.10.08:502][383]LogSavePackage: Display: Finished SavePackage D:/Projects/Unreal/SPH2/Content/SPHSim_GM_BP.uasset
+[2018.07.21-16.10.19:413][486]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.07.21-16.10.20:254][567]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane2)
+[2018.07.21-16.10.21:191][674]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane3)
+[2018.07.21-16.10.23:842][953]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane4)
+[2018.07.21-16.10.32:074][849]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.21-16.10.32:591][883]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.07.21-16.10.37:691][475]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane2)
+[2018.07.21-16.10.38:148][524]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane3)
+[2018.07.21-16.10.41:037][824]LogEditorViewport: Clicking on Actor (CTRL LMB): StaticMeshActor (Plane4)
+[2018.07.21-16.10.48:901][675]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.07.21-16.10.51:045][928]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-16.10.52:891][148]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.21-16.10.54:571][309]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.07.21-16.10.55:571][416]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.21-16.10.56:093][475]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane)
+[2018.07.21-16.11.15:884][772]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-16.11.17:094][911]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPHSimMap" FILE="D:/Projects/Unreal/SPH2/Content/SPHSimMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.21-16.11.17:114][911]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001565086a7f0, Size=72
+[2018.07.21-16.11.17:122][911]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000156283546f0, Size=8
+[2018.07.21-16.11.17:122][911]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015652684398, Size=8, Default__SPHSimMap_C Function /Engine/Transient.REINST_SPHSimMap_C_41:ExecuteUbergraph_SPHSimMap
+[2018.07.21-16.11.17:123][911]LogUObjectGlobals: Created PersistentFrame Addr=0x00000156526850d8, Size=8, Default__SPHSimMap_C Function /Game/SPHSimMap.SPHSimMap_C:ExecuteUbergraph_SPHSimMap
+[2018.07.21-16.11.17:205][911]LogSavePackage: Save=85.54ms
+[2018.07.21-16.11.17:205][911]LogSavePackage: Moving 'D:/Projects/Unreal/SPH2/Saved/SPHSimMapA9A90D0E430EF82102CE038B05C83DF3.tmp' to 'D:/Projects/Unreal/SPH2/Content/SPHSimMap.umap'
+[2018.07.21-16.11.17:207][911]LogSavePackage: Display: Finished SavePackage D:/Projects/Unreal/SPH2/Content/SPHSimMap.umap
+[2018.07.21-16.12.23:404][434]BlueprintLog: New page: Compilar SPHSim_GM_BP
+[2018.07.21-16.12.23:451][434]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015638cfde90, Size=72
+[2018.07.21-16.12.23:451][434]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015651e3b290, Size=72, SPHSim_GM_BP_C_68 Function /Engine/Transient.REINST_SPHSim_GM_BP_C_45:ExecuteUbergraph_SPHSim_GM_BP
+[2018.07.21-16.12.23:460][434]LogUObjectGlobals: Created PersistentFrame Addr=0x000001567ce7e480, Size=72, Default__SPHSim_GM_BP_C Function /Game/SPHSim_GM_BP.SPHSim_GM_BP_C:ExecuteUbergraph_SPHSim_GM_BP
+[2018.07.21-16.12.23:633][434]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015652684398, Size=8
+[2018.07.21-16.12.23:633][434]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015654a668e0, Size=72
+[2018.07.21-16.12.24:250][468]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPHSim_GM_BP" FILE="D:/Projects/Unreal/SPH2/Content/SPHSim_GM_BP.uasset" SILENT=true
+[2018.07.21-16.12.24:320][468]LogSavePackage: Save=66.53ms
+[2018.07.21-16.12.24:321][468]LogSavePackage: Moving 'D:/Projects/Unreal/SPH2/Saved/SPHSim_GM_BPA38D9A5441FCA3B7319B4D9B95A52112.tmp' to 'D:/Projects/Unreal/SPH2/Content/SPHSim_GM_BP.uasset'
+[2018.07.21-16.12.24:322][468]LogSavePackage: Display: Finished SavePackage D:/Projects/Unreal/SPH2/Content/SPHSim_GM_BP.uasset
+[2018.07.21-16.12.49:762][307]BlueprintLog: New page: Compilar SPHSim_GM_BP
+[2018.07.21-16.12.49:810][307]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001567ce7e480, Size=72
+[2018.07.21-16.12.49:810][307]LogUObjectGlobals: Created PersistentFrame Addr=0x000001568567f3d0, Size=72, Default__SPHSim_GM_BP_C Function /Engine/Transient.REINST_SPHSim_GM_BP_C_49:ExecuteUbergraph_SPHSim_GM_BP
+[2018.07.21-16.12.49:819][307]LogUObjectGlobals: Created PersistentFrame Addr=0x00000156858fd440, Size=72, Default__SPHSim_GM_BP_C Function /Game/SPHSim_GM_BP.SPHSim_GM_BP_C:ExecuteUbergraph_SPHSim_GM_BP
+[2018.07.21-16.12.50:009][307]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015651e3b290, Size=72
+[2018.07.21-16.12.50:334][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPHSim_GM_BP" FILE="D:/Projects/Unreal/SPH2/Content/SPHSim_GM_BP.uasset" SILENT=true
+[2018.07.21-16.12.50:401][318]LogSavePackage: Save=65.42ms
+[2018.07.21-16.12.50:401][318]LogSavePackage: Moving 'D:/Projects/Unreal/SPH2/Saved/SPHSim_GM_BPA9EE276C42F03D3599DA8E815AD0FB37.tmp' to 'D:/Projects/Unreal/SPH2/Content/SPHSim_GM_BP.uasset'
+[2018.07.21-16.12.50:403][318]LogSavePackage: Display: Finished SavePackage D:/Projects/Unreal/SPH2/Content/SPHSim_GM_BP.uasset
+[2018.07.21-16.12.53:852][637]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.21-16.12.53:869][637]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.12.53:869][637]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-16.12.53:869][637]PIE: New page: Sesión PIE (reproducción en el editor): SPHSimMap (21/7/2018 20:12:53)
+[2018.07.21-16.12.53:869][637]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SPHSimMap
+[2018.07.21-16.12.53:871][637]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002128s)
+[2018.07.21-16.12.53:873][637]LogAIModule: Creating AISystem for world SPHSimMap
+[2018.07.21-16.12.53:873][637]LogPlayLevel: PIE: World Init took: (0.001688s)
+[2018.07.21-16.12.53:873][637]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SPHSimMap.SPHSimMap to /Game/UEDPIE_0_SPHSimMap.SPHSimMap (0.003956s)
+[2018.07.21-16.12.53:889][637]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001568567f3d0, Size=72
+[2018.07.21-16.12.53:893][637]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-16.12.53:902][637]LogInit: FAudioDevice initialized.
+[2018.07.21-16.12.53:946][637]LogLoad: Game class is 'SPHSim_GM_BP_C'
+[2018.07.21-16.12.53:949][637]LogWorld: Bringing World /Game/UEDPIE_0_SPHSimMap.SPHSimMap up for play (max tick rate 0) at 2018.07.21-18.12.53
+[2018.07.21-16.12.53:949][637]LogWorld: Bringing up level for play took: 0.000864
+[2018.07.21-16.12.53:961][637]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0011 seconds. Added 11 classes and 0 folders.
+[2018.07.21-16.12.54:087][637]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/UEDPIE_0_SPHSimMap -0,543
+[2018.07.21-16.12.54:087][637]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.13.08:305][889]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.13.08:344][889]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.13.10:498][142]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-16.13.10:557][149]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.21-16.13.10:572][149]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.13.10:572][149]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-16.13.10:572][149]PIE: New page: Sesión PIE (reproducción en el editor): SPHSimMap (21/7/2018 20:13:10)
+[2018.07.21-16.13.10:572][149]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SPHSimMap
+[2018.07.21-16.13.10:574][149]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001739s)
+[2018.07.21-16.13.10:575][149]LogAIModule: Creating AISystem for world SPHSimMap
+[2018.07.21-16.13.10:575][149]LogPlayLevel: PIE: World Init took: (0.000729s)
+[2018.07.21-16.13.10:575][149]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SPHSimMap.SPHSimMap to /Game/UEDPIE_0_SPHSimMap.SPHSimMap (0.002592s)
+[2018.07.21-16.13.10:593][149]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-16.13.10:602][149]LogInit: FAudioDevice initialized.
+[2018.07.21-16.13.10:635][149]LogLoad: Game class is 'SPHSim_GM_BP_C'
+[2018.07.21-16.13.10:636][149]LogWorld: Bringing World /Game/UEDPIE_0_SPHSimMap.SPHSimMap up for play (max tick rate 0) at 2018.07.21-18.13.10
+[2018.07.21-16.13.10:637][149]LogWorld: Bringing up level for play took: 0.000420
+[2018.07.21-16.13.10:763][149]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/UEDPIE_0_SPHSimMap 0,133
+[2018.07.21-16.13.10:764][149]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.13.12:934][318]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.13.12:974][318]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.13.15:071][551]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.07.21-16.13.19:742][ 26]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-16.13.22:405][343]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-16.13.23:294][448]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-16.13.23:357][454]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPHSimMap" FILE="D:/Projects/Unreal/SPH2/Content/SPHSimMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.21-16.13.23:377][454]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000156526850d8, Size=8
+[2018.07.21-16.13.23:377][454]LogUObjectGlobals: Created PersistentFrame Addr=0x00000156526850d8, Size=8, Default__SPHSimMap_C Function /Engine/Transient.REINST_SPHSimMap_C_53:ExecuteUbergraph_SPHSimMap
+[2018.07.21-16.13.23:378][454]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015652685cd8, Size=8, Default__SPHSimMap_C Function /Game/SPHSimMap.SPHSimMap_C:ExecuteUbergraph_SPHSimMap
+[2018.07.21-16.13.23:462][454]LogSavePackage: Save=86.97ms
+[2018.07.21-16.13.23:462][454]LogSavePackage: Moving 'D:/Projects/Unreal/SPH2/Saved/SPHSimMapAF04E116478D03E74DF125BA2CE872F7.tmp' to 'D:/Projects/Unreal/SPH2/Content/SPHSimMap.umap'
+[2018.07.21-16.13.23:464][454]LogSavePackage: Display: Finished SavePackage D:/Projects/Unreal/SPH2/Content/SPHSimMap.umap
+[2018.07.21-16.13.24:103][526]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.21-16.13.24:118][526]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.13.24:119][526]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-16.13.24:119][526]PIE: New page: Sesión PIE (reproducción en el editor): SPHSimMap (21/7/2018 20:13:24)
+[2018.07.21-16.13.24:119][526]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SPHSimMap
+[2018.07.21-16.13.24:121][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001910s)
+[2018.07.21-16.13.24:121][526]LogAIModule: Creating AISystem for world SPHSimMap
+[2018.07.21-16.13.24:121][526]LogPlayLevel: PIE: World Init took: (0.000652s)
+[2018.07.21-16.13.24:121][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SPHSimMap.SPHSimMap to /Game/UEDPIE_0_SPHSimMap.SPHSimMap (0.002663s)
+[2018.07.21-16.13.24:136][526]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000156526850d8, Size=8
+[2018.07.21-16.13.24:140][526]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-16.13.24:149][526]LogInit: FAudioDevice initialized.
+[2018.07.21-16.13.24:183][526]LogLoad: Game class is 'SPHSim_GM_BP_C'
+[2018.07.21-16.13.24:183][526]LogWorld: Bringing World /Game/UEDPIE_0_SPHSimMap.SPHSimMap up for play (max tick rate 0) at 2018.07.21-18.13.24
+[2018.07.21-16.13.24:184][526]LogWorld: Bringing up level for play took: 0.000400
+[2018.07.21-16.13.24:308][526]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/UEDPIE_0_SPHSimMap -0,322
+[2018.07.21-16.13.24:308][526]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.13.27:786][794]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.13.27:827][794]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.13.30:331][ 70]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.07.21-16.13.33:377][418]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-16.13.35:018][613]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-16.13.35:112][623]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPHSimMap" FILE="D:/Projects/Unreal/SPH2/Content/SPHSimMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.21-16.13.35:131][623]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015652685cd8, Size=8
+[2018.07.21-16.13.35:132][623]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015638a09a40, Size=8, Default__SPHSimMap_C Function /Engine/Transient.REINST_SPHSimMap_C_57:ExecuteUbergraph_SPHSimMap
+[2018.07.21-16.13.35:132][623]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015638a09b10, Size=8, Default__SPHSimMap_C Function /Game/SPHSimMap.SPHSimMap_C:ExecuteUbergraph_SPHSimMap
+[2018.07.21-16.13.35:218][623]LogSavePackage: Save=87.85ms
+[2018.07.21-16.13.35:218][623]LogSavePackage: Moving 'D:/Projects/Unreal/SPH2/Saved/SPHSimMapAB80D1CE4A85006A66C69C8EC268DFD4.tmp' to 'D:/Projects/Unreal/SPH2/Content/SPHSimMap.umap'
+[2018.07.21-16.13.35:220][623]LogSavePackage: Display: Finished SavePackage D:/Projects/Unreal/SPH2/Content/SPHSimMap.umap
+[2018.07.21-16.13.35:677][673]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.21-16.13.35:692][673]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.13.35:692][673]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-16.13.35:692][673]PIE: New page: Sesión PIE (reproducción en el editor): SPHSimMap (21/7/2018 20:13:35)
+[2018.07.21-16.13.35:692][673]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SPHSimMap
+[2018.07.21-16.13.35:694][673]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001931s)
+[2018.07.21-16.13.35:695][673]LogAIModule: Creating AISystem for world SPHSimMap
+[2018.07.21-16.13.35:695][673]LogPlayLevel: PIE: World Init took: (0.000562s)
+[2018.07.21-16.13.35:695][673]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SPHSimMap.SPHSimMap to /Game/UEDPIE_0_SPHSimMap.SPHSimMap (0.002592s)
+[2018.07.21-16.13.35:710][673]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015638a09a40, Size=8
+[2018.07.21-16.13.35:713][673]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-16.13.35:722][673]LogInit: FAudioDevice initialized.
+[2018.07.21-16.13.35:753][673]LogLoad: Game class is 'SPHSim_GM_BP_C'
+[2018.07.21-16.13.35:754][673]LogWorld: Bringing World /Game/UEDPIE_0_SPHSimMap.SPHSimMap up for play (max tick rate 0) at 2018.07.21-18.13.35
+[2018.07.21-16.13.35:755][673]LogWorld: Bringing up level for play took: 0.000410
+[2018.07.21-16.13.35:909][673]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/UEDPIE_0_SPHSimMap -0,721
+[2018.07.21-16.13.35:910][673]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.13.38:328][858]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.13.38:369][858]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.13.40:099][ 39]LogEditorViewport: Clicking on Actor (LMB): PlayerStart (Player Start)
+[2018.07.21-16.13.43:270][396]LogNavigationPoint: PostEditMove Clear paths rebuilt
+[2018.07.21-16.13.44:112][495]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-16.13.44:182][502]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPHSimMap" FILE="D:/Projects/Unreal/SPH2/Content/SPHSimMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.21-16.13.44:202][502]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015638a09b10, Size=8
+[2018.07.21-16.13.44:202][502]LogUObjectGlobals: Created PersistentFrame Addr=0x00000156526843d8, Size=8, Default__SPHSimMap_C Function /Engine/Transient.REINST_SPHSimMap_C_61:ExecuteUbergraph_SPHSimMap
+[2018.07.21-16.13.44:202][502]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015652687308, Size=8, Default__SPHSimMap_C Function /Game/SPHSimMap.SPHSimMap_C:ExecuteUbergraph_SPHSimMap
+[2018.07.21-16.13.44:287][502]LogSavePackage: Save=86.66ms
+[2018.07.21-16.13.44:287][502]LogSavePackage: Moving 'D:/Projects/Unreal/SPH2/Saved/SPHSimMap36860FF3486CCEFC4D92F6AB3C653672.tmp' to 'D:/Projects/Unreal/SPH2/Content/SPHSimMap.umap'
+[2018.07.21-16.13.44:289][502]LogSavePackage: Display: Finished SavePackage D:/Projects/Unreal/SPH2/Content/SPHSimMap.umap
+[2018.07.21-16.13.44:746][551]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.21-16.13.44:761][551]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.13.44:762][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-16.13.44:762][551]PIE: New page: Sesión PIE (reproducción en el editor): SPHSimMap (21/7/2018 20:13:44)
+[2018.07.21-16.13.44:762][551]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SPHSimMap
+[2018.07.21-16.13.44:764][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001795s)
+[2018.07.21-16.13.44:764][551]LogAIModule: Creating AISystem for world SPHSimMap
+[2018.07.21-16.13.44:764][551]LogPlayLevel: PIE: World Init took: (0.000576s)
+[2018.07.21-16.13.44:764][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SPHSimMap.SPHSimMap to /Game/UEDPIE_0_SPHSimMap.SPHSimMap (0.002485s)
+[2018.07.21-16.13.44:779][551]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000156526843d8, Size=8
+[2018.07.21-16.13.44:782][551]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-16.13.44:791][551]LogInit: FAudioDevice initialized.
+[2018.07.21-16.13.44:820][551]LogLoad: Game class is 'SPHSim_GM_BP_C'
+[2018.07.21-16.13.44:821][551]LogWorld: Bringing World /Game/UEDPIE_0_SPHSimMap.SPHSimMap up for play (max tick rate 0) at 2018.07.21-18.13.44
+[2018.07.21-16.13.44:821][551]LogWorld: Bringing up level for play took: 0.000427
+[2018.07.21-16.13.44:927][551]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/UEDPIE_0_SPHSimMap 0,297
+[2018.07.21-16.13.44:928][551]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.13.50:250][ 30]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.13.50:291][ 30]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.13.51:570][179]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.21-16.13.51:585][179]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.13.51:586][179]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-16.13.51:586][179]PIE: New page: Sesión PIE (reproducción en el editor): SPHSimMap (21/7/2018 20:13:51)
+[2018.07.21-16.13.51:586][179]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SPHSimMap
+[2018.07.21-16.13.51:588][179]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001733s)
+[2018.07.21-16.13.51:588][179]LogAIModule: Creating AISystem for world SPHSimMap
+[2018.07.21-16.13.51:588][179]LogPlayLevel: PIE: World Init took: (0.000601s)
+[2018.07.21-16.13.51:588][179]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SPHSimMap.SPHSimMap to /Game/UEDPIE_0_SPHSimMap.SPHSimMap (0.002445s)
+[2018.07.21-16.13.51:606][179]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-16.13.51:615][179]LogInit: FAudioDevice initialized.
+[2018.07.21-16.13.51:647][179]LogLoad: Game class is 'SPHSim_GM_BP_C'
+[2018.07.21-16.13.51:649][179]LogWorld: Bringing World /Game/UEDPIE_0_SPHSimMap.SPHSimMap up for play (max tick rate 0) at 2018.07.21-18.13.51
+[2018.07.21-16.13.51:649][179]LogWorld: Bringing up level for play took: 0.000568
+[2018.07.21-16.13.51:755][179]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/UEDPIE_0_SPHSimMap 1,124
+[2018.07.21-16.13.51:755][179]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.13.54:405][371]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.13.54:445][371]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.13.55:137][448]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.21-16.13.55:152][448]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.13.55:152][448]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-16.13.55:152][448]PIE: New page: Sesión PIE (reproducción en el editor): SPHSimMap (21/7/2018 20:13:55)
+[2018.07.21-16.13.55:152][448]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SPHSimMap
+[2018.07.21-16.13.55:155][448]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002228s)
+[2018.07.21-16.13.55:155][448]LogAIModule: Creating AISystem for world SPHSimMap
+[2018.07.21-16.13.55:155][448]LogPlayLevel: PIE: World Init took: (0.000672s)
+[2018.07.21-16.13.55:155][448]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SPHSimMap.SPHSimMap to /Game/UEDPIE_0_SPHSimMap.SPHSimMap (0.003045s)
+[2018.07.21-16.13.55:172][448]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-16.13.55:181][448]LogInit: FAudioDevice initialized.
+[2018.07.21-16.13.55:214][448]LogLoad: Game class is 'SPHSim_GM_BP_C'
+[2018.07.21-16.13.55:215][448]LogWorld: Bringing World /Game/UEDPIE_0_SPHSimMap.SPHSimMap up for play (max tick rate 0) at 2018.07.21-18.13.55
+[2018.07.21-16.13.55:215][448]LogWorld: Bringing up level for play took: 0.000415
+[2018.07.21-16.13.55:320][448]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/UEDPIE_0_SPHSimMap 0,69
+[2018.07.21-16.13.55:321][448]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.14.09:608][397]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.14.09:650][397]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.14.10:157][453]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.21-16.14.10:172][453]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.14.10:173][453]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-16.14.10:173][453]PIE: New page: Sesión PIE (reproducción en el editor): SPHSimMap (21/7/2018 20:14:10)
+[2018.07.21-16.14.10:173][453]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SPHSimMap
+[2018.07.21-16.14.10:175][453]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001927s)
+[2018.07.21-16.14.10:175][453]LogAIModule: Creating AISystem for world SPHSimMap
+[2018.07.21-16.14.10:175][453]LogPlayLevel: PIE: World Init took: (0.000700s)
+[2018.07.21-16.14.10:175][453]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SPHSimMap.SPHSimMap to /Game/UEDPIE_0_SPHSimMap.SPHSimMap (0.002749s)
+[2018.07.21-16.14.10:193][453]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-16.14.10:202][453]LogInit: FAudioDevice initialized.
+[2018.07.21-16.14.10:230][453]LogLoad: Game class is 'SPHSim_GM_BP_C'
+[2018.07.21-16.14.10:230][453]LogWorld: Bringing World /Game/UEDPIE_0_SPHSimMap.SPHSimMap up for play (max tick rate 0) at 2018.07.21-18.14.10
+[2018.07.21-16.14.10:231][453]LogWorld: Bringing up level for play took: 0.000429
+[2018.07.21-16.14.10:337][453]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/UEDPIE_0_SPHSimMap -0,293
+[2018.07.21-16.14.10:338][453]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.14.13:430][729]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.14.13:468][729]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.15.08:865][461]BlueprintLog: New page: Compilar SPHSim_GM_BP
+[2018.07.21-16.15.08:912][461]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000156858fd440, Size=72
+[2018.07.21-16.15.08:912][461]LogUObjectGlobals: Created PersistentFrame Addr=0x000001564f951120, Size=72, Default__SPHSim_GM_BP_C Function /Engine/Transient.REINST_SPHSim_GM_BP_C_65:ExecuteUbergraph_SPHSim_GM_BP
+[2018.07.21-16.15.08:920][461]LogUObjectGlobals: Created PersistentFrame Addr=0x000001568567e9d0, Size=72, Default__SPHSim_GM_BP_C Function /Game/SPHSim_GM_BP.SPHSim_GM_BP_C:ExecuteUbergraph_SPHSim_GM_BP
+[2018.07.21-16.15.16:781][243]BlueprintLog: New page: Compilar SPHSim_GM_BP
+[2018.07.21-16.15.16:827][243]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001568567e9d0, Size=72
+[2018.07.21-16.15.16:827][243]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015653d09710, Size=72, SPHSim_GM_BP_C_81 Function /Engine/Transient.REINST_SPHSim_GM_BP_C_69:ExecuteUbergraph_SPHSim_GM_BP
+[2018.07.21-16.15.16:836][243]LogUObjectGlobals: Created PersistentFrame Addr=0x00000156516a60c0, Size=72, Default__SPHSim_GM_BP_C Function /Game/SPHSim_GM_BP.SPHSim_GM_BP_C:ExecuteUbergraph_SPHSim_GM_BP
+[2018.07.21-16.15.16:979][243]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x000001564f951120, Size=72
+[2018.07.21-16.15.17:403][280]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPHSim_GM_BP" FILE="D:/Projects/Unreal/SPH2/Content/SPHSim_GM_BP.uasset" SILENT=true
+[2018.07.21-16.15.17:475][280]LogSavePackage: Save=63.86ms
+[2018.07.21-16.15.17:475][280]LogSavePackage: Moving 'D:/Projects/Unreal/SPH2/Saved/SPHSim_GM_BP0E597F5546C6874614442497DCF58392.tmp' to 'D:/Projects/Unreal/SPH2/Content/SPHSim_GM_BP.uasset'
+[2018.07.21-16.15.17:477][280]LogSavePackage: Display: Finished SavePackage D:/Projects/Unreal/SPH2/Content/SPHSim_GM_BP.uasset
+[2018.07.21-16.15.28:449][288]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane4)
+[2018.07.21-16.15.44:993][210]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Plane3)
+[2018.07.21-16.15.53:906][240]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-16.15.56:792][502]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (Sky Sphere)
+[2018.07.21-16.15.58:019][645]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-16.15.58:081][651]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPHSimMap" FILE="D:/Projects/Unreal/SPH2/Content/SPHSimMap.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2018.07.21-16.15.58:098][651]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015653d09710, Size=72
+[2018.07.21-16.15.58:101][651]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015652687308, Size=8
+[2018.07.21-16.15.58:101][651]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015652687308, Size=8, Default__SPHSimMap_C Function /Engine/Transient.REINST_SPHSimMap_C_73:ExecuteUbergraph_SPHSimMap
+[2018.07.21-16.15.58:102][651]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015652687f98, Size=8, Default__SPHSimMap_C Function /Game/SPHSimMap.SPHSimMap_C:ExecuteUbergraph_SPHSimMap
+[2018.07.21-16.15.58:184][651]LogSavePackage: Save=84.86ms
+[2018.07.21-16.15.58:184][651]LogSavePackage: Moving 'D:/Projects/Unreal/SPH2/Saved/SPHSimMap98CBFD7D40D42BB6A2FBB6B322CE78BF.tmp' to 'D:/Projects/Unreal/SPH2/Content/SPHSimMap.umap'
+[2018.07.21-16.15.58:186][651]LogSavePackage: Display: Finished SavePackage D:/Projects/Unreal/SPH2/Content/SPHSimMap.umap
+[2018.07.21-16.16.00:468][888]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-16.16.00:535][896]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.21-16.16.00:550][896]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.16.00:551][896]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-16.16.00:551][896]PIE: New page: Sesión PIE (reproducción en el editor): SPHSimMap (21/7/2018 20:16:00)
+[2018.07.21-16.16.00:551][896]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SPHSimMap
+[2018.07.21-16.16.00:553][896]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001776s)
+[2018.07.21-16.16.00:553][896]LogAIModule: Creating AISystem for world SPHSimMap
+[2018.07.21-16.16.00:553][896]LogPlayLevel: PIE: World Init took: (0.000612s)
+[2018.07.21-16.16.00:553][896]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SPHSimMap.SPHSimMap to /Game/UEDPIE_0_SPHSimMap.SPHSimMap (0.002505s)
+[2018.07.21-16.16.00:569][896]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015652687308, Size=8
+[2018.07.21-16.16.00:573][896]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-16.16.00:582][896]LogInit: FAudioDevice initialized.
+[2018.07.21-16.16.00:614][896]LogLoad: Game class is 'SPHSim_GM_BP_C'
+[2018.07.21-16.16.00:615][896]LogWorld: Bringing World /Game/UEDPIE_0_SPHSimMap.SPHSimMap up for play (max tick rate 0) at 2018.07.21-18.16.00
+[2018.07.21-16.16.00:615][896]LogWorld: Bringing up level for play took: 0.000459
+[2018.07.21-16.16.00:738][896]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/UEDPIE_0_SPHSimMap 0,108
+[2018.07.21-16.16.00:738][896]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.16.19:627][571]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.16.19:668][571]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.16.20:730][693]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-16.16.20:796][701]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.21-16.16.20:811][701]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.16.20:811][701]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-16.16.20:811][701]PIE: New page: Sesión PIE (reproducción en el editor): SPHSimMap (21/7/2018 20:16:20)
+[2018.07.21-16.16.20:811][701]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SPHSimMap
+[2018.07.21-16.16.20:813][701]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001758s)
+[2018.07.21-16.16.20:813][701]LogAIModule: Creating AISystem for world SPHSimMap
+[2018.07.21-16.16.20:814][701]LogPlayLevel: PIE: World Init took: (0.000763s)
+[2018.07.21-16.16.20:814][701]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SPHSimMap.SPHSimMap to /Game/UEDPIE_0_SPHSimMap.SPHSimMap (0.002665s)
+[2018.07.21-16.16.20:831][701]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-16.16.20:840][701]LogInit: FAudioDevice initialized.
+[2018.07.21-16.16.20:869][701]LogLoad: Game class is 'SPHSim_GM_BP_C'
+[2018.07.21-16.16.20:871][701]LogWorld: Bringing World /Game/UEDPIE_0_SPHSimMap.SPHSimMap up for play (max tick rate 0) at 2018.07.21-18.16.20
+[2018.07.21-16.16.20:871][701]LogWorld: Bringing up level for play took: 0.000524
+[2018.07.21-16.16.20:978][701]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/UEDPIE_0_SPHSimMap 0,348
+[2018.07.21-16.16.20:979][701]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.16.27:245][201]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.16.27:283][201]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.16.38:037][850]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.07.21-16.16.46:230][509]BlueprintLog: New page: Compilar SPHSim_GM_BP
+[2018.07.21-16.16.46:278][509]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x00000156516a60c0, Size=72
+[2018.07.21-16.16.46:278][509]LogUObjectGlobals: Created PersistentFrame Addr=0x0000015653d09bc0, Size=72, Default__SPHSim_GM_BP_C Function /Engine/Transient.REINST_SPHSim_GM_BP_C_77:ExecuteUbergraph_SPHSim_GM_BP
+[2018.07.21-16.16.46:286][509]LogUObjectGlobals: Created PersistentFrame Addr=0x000001564fd02bb0, Size=72, Default__SPHSim_GM_BP_C Function /Game/SPHSim_GM_BP.SPHSim_GM_BP_C:ExecuteUbergraph_SPHSim_GM_BP
+[2018.07.21-16.16.46:926][535]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SPHSim_GM_BP" FILE="D:/Projects/Unreal/SPH2/Content/SPHSim_GM_BP.uasset" SILENT=true
+[2018.07.21-16.16.46:993][535]LogSavePackage: Save=64.82ms
+[2018.07.21-16.16.46:993][535]LogSavePackage: Moving 'D:/Projects/Unreal/SPH2/Saved/SPHSim_GM_BPCB41F00B4F659D65F77333889E15BBBD.tmp' to 'D:/Projects/Unreal/SPH2/Content/SPHSim_GM_BP.uasset'
+[2018.07.21-16.16.46:995][535]LogSavePackage: Display: Finished SavePackage D:/Projects/Unreal/SPH2/Content/SPHSim_GM_BP.uasset
+[2018.07.21-16.16.48:774][680]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-16.16.50:581][893]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.07.21-16.16.50:656][902]LogTemp: Repeating last play command: Selected Viewport
+[2018.07.21-16.16.50:671][902]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.16.50:672][902]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.07.21-16.16.50:672][902]PIE: New page: Sesión PIE (reproducción en el editor): SPHSimMap (21/7/2018 20:16:50)
+[2018.07.21-16.16.50:672][902]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_SPHSimMap
+[2018.07.21-16.16.50:674][902]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001759s)
+[2018.07.21-16.16.50:674][902]LogAIModule: Creating AISystem for world SPHSimMap
+[2018.07.21-16.16.50:674][902]LogPlayLevel: PIE: World Init took: (0.000715s)
+[2018.07.21-16.16.50:674][902]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SPHSimMap.SPHSimMap to /Game/UEDPIE_0_SPHSimMap.SPHSimMap (0.002594s)
+[2018.07.21-16.16.50:690][902]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000015653d09bc0, Size=72
+[2018.07.21-16.16.50:692][902]LogInit: XAudio2 using 'Altavoces (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.07.21-16.16.50:702][902]LogInit: FAudioDevice initialized.
+[2018.07.21-16.16.50:738][902]LogLoad: Game class is 'SPHSim_GM_BP_C'
+[2018.07.21-16.16.50:739][902]LogWorld: Bringing World /Game/UEDPIE_0_SPHSimMap.SPHSimMap up for play (max tick rate 0) at 2018.07.21-18.16.50
+[2018.07.21-16.16.50:739][902]LogWorld: Bringing up level for play took: 0.000821
+[2018.07.21-16.16.50:880][902]PIE: Tiempo de inicio de la reproducción en el editor para  /Game/UEDPIE_0_SPHSimMap 0,249
+[2018.07.21-16.16.50:880][902]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SPHSimMap.SPHSimMap:PersistentLevel' has LevelScriptBlueprint '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap' with GeneratedClass '/Game/SPHSimMap.SPHSimMap_C' with ClassGeneratedBy '/Game/SPHSimMap.SPHSimMap:PersistentLevel.SPHSimMap'
+[2018.07.21-16.16.50:880][902]LogOutputDevice: Warning: 
+
+Script Stack:
+SPHSim_GM_BP_C.ExecuteUbergraph_SPHSim_GM_BP
+SPHSim_GM_BP_C.ReceiveTick
+
+[2018.07.21-16.16.50:881][902]LogWindows: Windows GetLastError: La operación se completó correctamente. (0)

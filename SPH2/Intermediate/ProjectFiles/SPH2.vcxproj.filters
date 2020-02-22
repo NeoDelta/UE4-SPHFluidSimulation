@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\SPH2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B5A3786D-8D5B-4363-BF65-DECDB0E693C8}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\SPH2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\SPH2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{BC6E4AC7-BAF4-418D-9314-D7FAA7E95335}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\SPH2">
+      <UniqueIdentifier>{9E499F96-2824-41E9-AD50-B6A120A74F2F}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\SPH2\Particle.cpp">
+      <Filter>Source\SPH2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SPH2\Particle.h">
+      <Filter>Source\SPH2</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\SPH2\SPH2.Build.cs">
+      <Filter>Source\SPH2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\SPH2\SPH2.cpp">
+      <Filter>Source\SPH2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\SPH2\SPH2.h">
+      <Filter>Source\SPH2</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\SPH2\SPHSim_GM.h">
+      <Filter>Source\SPH2</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\SPH2\SPHSim_GM.cpp">
+      <Filter>Source\SPH2</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

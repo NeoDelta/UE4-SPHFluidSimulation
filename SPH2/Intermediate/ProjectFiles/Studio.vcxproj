@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup Label="ProjectConfigurations">
+		<ProjectConfiguration Include="BuiltWithUnrealBuildTool|Win32">
+			<Configuration>BuiltWithUnrealBuildTool</Configuration>
+			<Platform>Win32</Platform>
+		</ProjectConfiguration>
+	</ItemGroup>
+	<PropertyGroup Label="Globals">
+		<ProjectGuid>{3A7EB1BD-8996-4809-A5C5-22DE79CC31DF}</ProjectGuid>
+		<Keyword>MakeFileProj</Keyword>
+		<RootNamespace>Studio</RootNamespace>
+		<PlatformToolset>v141</PlatformToolset>
+		<MinimumVisualStudioVersion>15.0</MinimumVisualStudioVersion>
+		<TargetRuntime>Native</TargetRuntime>
+	</PropertyGroup>
+	<Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='BuiltWithUnrealBuildTool|Win32'" Label="Configuration">
+		<ConfigurationType>Makefile</ConfigurationType>
+		<PlatformToolset>v141</PlatformToolset>
+	</PropertyGroup>
+	<Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+	<ImportGroup Label="ExtensionSettings" />
+	<PropertyGroup Label="UserMacros" />
+	<ImportGroup Condition="'$(Configuration)|$(Platform)'=='BuiltWithUnrealBuildTool|Win32'" Label="PropertySheets">
+		<Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+	</ImportGroup>
+	<PropertyGroup Condition="'$(Configuration)|$(Platform)'=='BuiltWithUnrealBuildTool|Win32'">
+		<OutDir>C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Unused\</OutDir>
+		<IntDir>C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Unused\</IntDir>
+		<NMakeBuildCommandLine>@rem Nothing to do.</NMakeBuildCommandLine>
+		<NMakeReBuildCommandLine>@rem Nothing to do.</NMakeReBuildCommandLine>
+		<NMakeCleanCommandLine>@rem Nothing to do.</NMakeCleanCommandLine>
+		<NMakeOutput/>
+	</PropertyGroup>
+	<ItemGroup>
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\StudioEditor.Target.cs" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\Developer\Datasmith\DatasmithCore\DatasmithCore.Build.cs" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Plugins\Editor\DatasmithCADImporter\DatasmithCADImporter.uplugin" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Plugins\Editor\DatasmithCADImporter\Resources\Icon128.png" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Plugins\Editor\DatasmithDeltaGenImporter\DatasmithDeltaGenImporter.uplugin" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Plugins\Editor\DatasmithDeltaGenImporter\Resources\Icon128.png" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Plugins\Editor\DatasmithImporter\DatasmithImporter.uplugin" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Plugins\Editor\DatasmithImporter\Resources\Icon128.png" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Plugins\Experimental\EditorScriptingUtilities\EditorScriptingUtilities.uplugin" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Plugins\Experimental\EditorScriptingUtilities\Resources\Icon128.png" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\Developer\Datasmith\DatasmithExporter\DatasmithExporter.Build.cs" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\ThirdParty\FreeImage\FreeImage.Build.cs" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\ThirdParty\FreeImage\FreeImage.tps" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\ThirdParty\FreeImage\LibJPEG.tps" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\ThirdParty\FreeImage\LibJXR.tps" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\ThirdParty\FreeImage\libpng.tps" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\ThirdParty\FreeImage\LibRaw.tps" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\ThirdParty\FreeImage\LibTiff.tps" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\ThirdParty\FreeImage\LibWebP.tps" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\ThirdParty\FreeImage\OpenEXR.tps" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\ThirdParty\FreeImage\OpenJPEG.tps" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\ThirdParty\FreeImage\zlib.tps" />
+		<ClInclude Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\ThirdParty\FreeImage\Source\FreeImage.h" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\ThirdParty\FreeImage\x64\FreeImage317.dll" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\ThirdParty\FreeImage\x64\FreeImage317.lib" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\ThirdParty\FreeImage\x64\LibRaw.dll" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\ThirdParty\GPureSDK\GPureSDK.Build.cs" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\ThirdParty\GPureSDK\GPureSDK.tps" />
+		<ClInclude Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\ThirdParty\Itoo\forestitreesinterface.h" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\ThirdParty\Itoo\ForestPackRailcloneAPI.tps" />
+		<ClInclude Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\ThirdParty\Itoo\ircinterface.h" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\ThirdParty\Itoo\Itoo.Build.cs" />
+		<ClInclude Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\ThirdParty\Itoo\itreesinterface.H" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Plugins\Editor\DatasmithCADImporter\Source\DatasmithCADImporter\DatasmithCADImporter.Build.cs" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Plugins\Editor\DatasmithDeltaGenImporter\Source\DatasmithDeltaGenImporter\DatasmithDeltaGenImporter.Build.cs" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Plugins\Editor\DatasmithImporter\Source\DatasmithImporter\DatasmithImporter.Build.cs" />
+		<None Include="C:\Program Files\Epic Games\UE_4.19\Enterprise\Plugins\Experimental\EditorScriptingUtilities\Source\EditorScriptingUtilities\EditorScriptingUtilities.Build.cs" />
+	</ItemGroup>
+	<PropertyGroup>
+		<NMakePreprocessorDefinitions>$(NMakePreprocessorDefinitions);IS_PROGRAM=0;UE_EDITOR=1;ENABLE_PGO_PROFILE=0;WITH_DEV_AUTOMATION_TESTS=1;WITH_PERF_AUTOMATION_TESTS=1;UNICODE;_UNICODE;__UNREAL__;IS_MONOLITHIC=0;WITH_ENGINE=1;WITH_UNREAL_DEVELOPER_TOOLS=1;WITH_COREUOBJECT=1;USE_STATS_WITHOUT_ENGINE=0;WITH_PLUGIN_SUPPORT=0;WITH_PERFCOUNTERS=1;USE_LOGGING_IN_SHIPPING=0;WITH_LOGGING_TO_MEMORY=0;USE_CACHE_FREED_OS_ALLOCS=1;USE_CHECKS_IN_SHIPPING=0;UE_BUILD_MINIMAL=0;WITH_EDITOR=1;WITH_SERVER_CODE=1;WITH_CEF3=1;WITH_XGE_CONTROLLER=1;UBT_COMPILED_PLATFORM=Win64;UBT_COMPILED_TARGET=Editor;WIN32=1;_WIN32_WINNT=0x0601;WINVER=0x0601;PLATFORM_WINDOWS=1;DEPTH_32_BIT_CONVERSION=0;NDEBUG=1;UE_BUILD_DEVELOPMENT=1;ORIGINAL_FILE_NAME="UE4Editor-DatasmithCore.dll";UE_IS_ENGINE_MODULE=1;DATASMITHCORE_API=;UE_ENABLE_ICU=1;WITH_VS_PERF_PROFILER=0;WITH_DIRECTXMATH=0;CORE_API=;COREUOBJECT_API=;RAWMESH_API=</NMakePreprocessorDefinitions>
+		<NMakeIncludeSearchPath>$(NMakeIncludeSearchPath);C:\Program Files\Epic Games\UE_4.19\Engine\Source;C:\Program Files\Epic Games\UE_4.19\Enterprise\Intermediate\Build\Win64\UE4Editor\Inc\DatasmithCore;C:\Program Files\Epic Games\UE_4.19\Enterprise\Source\Developer\Datasmith\DatasmithCore;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Internationalization;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Async;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Concurrency;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Containers;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Delegates;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\GenericPlatform;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\HAL;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Logging;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Math;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Misc;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Modules;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Modules\Boilerplate;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\ProfilingDebugging;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Serialization;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Serialization\Csv;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Stats;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Templates;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\UObject;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core\Public\Windows;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\Core;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\CoreUObject\Public;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\CoreUObject\Public\Blueprint;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\CoreUObject\Public\Internationalization;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\CoreUObject\Public\Misc;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\CoreUObject\Public\Serialization;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\CoreUObject\Public\Serialization\Formatters;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\CoreUObject\Public\Templates;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\CoreUObject\Public\UObject;C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Inc\CoreUObject;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Runtime\CoreUObject;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Developer\RawMesh\Public;C:\Program Files\Epic Games\UE_4.19\Engine\Intermediate\Build\Win64\UE4Editor\Inc\RawMesh;C:\Program Files\Epic Games\UE_4.19\Engine\Source\Developer\RawMesh;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\INCLUDE;C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\VC\Tools\MSVC\14.14.26428\ATLMFC\INCLUDE;C:\Program Files (x86)\Windows Kits\10\include\10.0.17134.0\ucrt;C:\Program Files (x86)\Windows Kits\NETFXSDK\4.6.1\include\um;C:\Program Files (x86)\Windows Kits\8.1\include\shared;C:\Program Files (x86)\Windows Kits\8.1\include\um;C:\Program Files (x86)\Windows Kits\8.1\include\winrt;;</NMakeIncludeSearchPath>
+		<NMakeForcedIncludes>$(NMakeForcedIncludes)</NMakeForcedIncludes>
+		<NMakeAssemblySearchPath>$(NMakeAssemblySearchPath)</NMakeAssemblySearchPath>
+		<NMakeForcedUsingAssemblies>$(NMakeForcedUsingAssemblies)</NMakeForcedUsingAssemblies>
+	</PropertyGroup>
+	<ItemDefinitionGroup>
+	</ItemDefinitionGroup>
+	<Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+	<ImportGroup Label="ExtensionTargets">
+	</ImportGroup>
+</Project>
